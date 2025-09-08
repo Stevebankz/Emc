@@ -17,8 +17,9 @@ We introduce the **Engineering Misinformation Corpus (EMC)**, a novel, large-sca
 
 **Key insights:**
 - Transformers can implicitly learn complex signals that typically require manual feature engineering.
-- Fused models (Transformer + engineered features) are *brittle* under semantic adversarial attacks, collapsing in performance.
-- Simpler models (XLM-R only or XGBoost only) show greater robustness in adversarial settings.
+- Fused models (Simple and Gated Fusion) are *brittle* under semantic adversarial attacks, and showing selective brittleness in performance.
+- Simpler models XLM-R only show greater robustness in adversarial settings.
+-  XGBoost only Catastrophically Collapse under adversarial settings 
 
 This work offers both practical tools and conceptual insights for deploying NLP models in high-stakes engineering domains.
 
