@@ -53,6 +53,7 @@ Final trained models from our study are hosted on the Hugging Face Hub:
 - `XLM-RoBERTa Only` (baseline)
 - `XLM-R + Simple Fusion`
 - `XLM-R + Gated Fusion`
+- `XGBoost + Engineered Features`
 
 👉 [https://huggingface.co/YOUR_USERNAME](https://huggingface.co/stevebankz)
 
