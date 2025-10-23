@@ -59,15 +59,19 @@ Final trained models from our study are hosted on the Hugging Face Hub:
 
 ---
 
-## 🔁 Reproducing the Results
+## 🔁 PLEASE CITE PAPER
 
 ### 🔧 Setup
 
-```bash
-git clone https://github.com/YOUR_USERNAME/your-repo-name.git
-cd your-repo-name
+# ---- Citation -----
 
-python -m venv .venv
-source .venv/bin/activate         # On Windows use: .venv\Scripts\activate
-
-pip install -r requirements.txt
+@article{NWAIWU2025107783,
+title = {The brittleness of transformer feature fusion: A comparative study of model robustness in engineering misinformation detection},
+journal = {Results in Engineering},
+volume = {28},
+pages = {107783},
+year = {2025},
+issn = {2590-1230},
+doi = {https://doi.org/10.1016/j.rineng.2025.107783},
+url = {https://www.sciencedirect.com/science/article/pii/S2590123025038368},
+author = {Steve Nwaiwu and Nipat Jongsawat and Anucha Tungkasthan}}
