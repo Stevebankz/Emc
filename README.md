@@ -55,13 +55,11 @@ Final trained models from our study are hosted on the Hugging Face Hub:
 - `XLM-R + Gated Fusion`
 - `XGBoost + Engineered Features`
 
-👉 [https://huggingface.co/YOUR_USERNAME](https://huggingface.co/stevebankz)
+👉 (https://huggingface.co/stevebankz)
 
 ---
 
 ## 🔁 PLEASE CITE PAPER
-
-### 🔧 Setup
 
 # ---- Citation -----
 
