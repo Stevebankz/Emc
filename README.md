@@ -42,7 +42,7 @@ The **EMC** is composed of curated texts from:
 - **Generated content**: LLMs (GPT-3.5, Claude, etc.)
 
 You can download the dataset from the Hugging Face Hub:  
-👉 [https://huggingface.co/datasets/YOUR_USERNAME/EMC](https://huggingface.co/datasets/stevebankz/Emc)
+👉 (https://huggingface.co/datasets/stevebankz/Emc)
 
 ---
 
